@@ -1,3 +1,26 @@
+# Cracking Double-Blind Review: Authorship Attribution with Deep Learning
+
+![social_media_figure](https://user-images.githubusercontent.com/49951156/203823503-75adc9fc-1c34-473c-b40c-f7ef205df7a4.jpg)
+
+This is the code for the paper [**Cracking Double-Blind Review: Authorship Attribution with Deep Learning**](https://rpg.ifi.uzh.ch/docs/Arxiv22_Bauersfeld.pdf) by  
+[Leonard Bauersfeld](https://lbfd.github.io/), Angel Romero, [Manasi Muglikar](https://manasi94.github.io/), and [Davide
+Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html).
+
+If you use this work in your research, please cite it as follows:
+
+```bibtex
+@misc{bauersfeld22authorshipattribution,
+  doi = {10.48550/ARXIV.2211.07467},
+  url = {https://arxiv.org/abs/2211.07467},
+  author = {Bauersfeld, Leonard and Romero, Angel and Muglikar, Manasi and Scaramuzza, Davide},
+  title = {Cracking Double-Blind Review: Authorship Attribution with Deep Learning},
+  publisher = {arXiv},
+  year = {2022},
+}
+
+```
+This source code is GPLv3 license. See the LICENSE file for further details.
+
 # Introduction
 ### Data Format
 This section specifies the data format chosen in this work. The representation was chosen because it is human-readable and human-interpretable as well as being very easy to parse. In total, 7 different files exist. Note that the file-ending `.txt` or `.csv` carries no meaning and is only present for legacy-reasons.
