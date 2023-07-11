@@ -2,22 +2,26 @@
 
 ![social_media_figure](https://user-images.githubusercontent.com/49951156/203823503-75adc9fc-1c34-473c-b40c-f7ef205df7a4.jpg)
 
-This is the code for the paper [**Cracking Double-Blind Review: Authorship Attribution with Deep Learning**](https://rpg.ifi.uzh.ch/docs/Arxiv22_Bauersfeld.pdf) by  
+This is the code for the paper [**Cracking Double-Blind Review: Authorship Attribution with Deep Learning**](https://rpg.ifi.uzh.ch/docs/PLOSONE23_Bauersfeld.pdf) by  
 [Leonard Bauersfeld](https://lbfd.github.io/), Angel Romero, [Manasi Muglikar](https://manasi94.github.io/), and [Davide
 Scaramuzza](https://rpg.ifi.uzh.ch/people_scaramuzza.html).
 
 If you use this work in your research, please cite it as follows:
 
 ```bibtex
-@misc{bauersfeld22authorshipattribution,
-  doi = {10.48550/ARXIV.2211.07467},
-  url = {https://arxiv.org/abs/2211.07467},
-  author = {Bauersfeld, Leonard and Romero, Angel and Muglikar, Manasi and Scaramuzza, Davide},
-  title = {Cracking Double-Blind Review: Authorship Attribution with Deep Learning},
-  publisher = {arXiv},
-  year = {2022},
+@article{bauersfeld22authorshipattribution,
+    doi = {10.1371/journal.pone.0287611},
+    author = {Bauersfeld, Leonard AND Romero, Angel AND Muglikar, Manasi AND Scaramuzza, Davide},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Cracking double-blind review: Authorship attribution with deep learning},
+    year = {2023},
+    month = {06},
+    volume = {18},
+    url = {https://doi.org/10.1371/journal.pone.0287611},
+    pages = {1-20},
+    number = {6},
 }
-
 ```
 This source code is GPLv3 license. See the LICENSE file for further details.
 
